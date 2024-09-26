@@ -1,0 +1,22 @@
+.card{
+    border: 1px solid black;
+    width: 300px;
+    padding: 10px;
+    height: auto;
+    text-align: left;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.p{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
